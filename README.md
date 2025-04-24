@@ -8,7 +8,7 @@
 
 ## <h1 align="center">💡 ABOUT ME</h1>  
 <p align="center" style="font-size: 22px;">
-  🎨 <b>Frontend Developer & 3D Artist</b> | 🖥️ <b>Problem Solver</b> | 🚀 <b>Tech Enthusiast</b>  
+  🎨 <b>Fullstack Developer & 3D Artist</b> | 🖥️ <b>Problem Solver</b> | 🚀 <b>Tech Enthusiast</b>  
 </p>
 
 <p align="center" style="font-size: 20px;">
